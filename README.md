@@ -1,2 +1,2 @@
 # SOARy
-A security orchestration, automation, and response (SOAR) tool created from grownd up from open source tools.
+A security orchestration, automation, and response (SOAR) tool created from ground up from open source tools.
